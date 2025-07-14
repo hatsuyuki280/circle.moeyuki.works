@@ -3,20 +3,20 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: 'Kratos : Rebirth'
-subtitle: '一个可爱而现代的 Hexo 主题'
-description: '欢迎使用这个主题，希望能给您带来美好的体验。'
+title: '萌え雪ワークス : MoeyukiWorks'
+subtitle: '趣味本位のサークル'
+description: 'たまに可愛い女の子のイラストを描いています。'
 keywords: 
 - hexo
-- theme
+- MoeyukiWorks
 - kratos-rebirth
-author: All contributors
-language: zh
-timezone: ''
+author: Moeyuki
+language: ja # Set the language of your site, e.g., 'en', 'ja', 'zh-CN'
+timezone: 'Asia/Tokyo' # Set your timezone, e.g., 'America/New_York', 'Europe/London', 'Asia/Tokyo'
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: https://krt.moe
+url: https://circle.moeyuki.works
 permalink: posts/:title/
 permalink_defaults:
 pretty_urls:
@@ -71,7 +71,7 @@ index_generator:
   order_by: -date
 
 # Category & Tag
-default_category: 无家可归的文章君T-T
+default_category: 何なんだろう
 category_map:
 tag_map:
 
@@ -90,7 +90,7 @@ updated_option: 'mtime'
 
 # Pagination
 ## Set per_page to 0 to disable pagination
-per_page: 10
+per_page: 15
 pagination_dir: page
 
 # Include / Exclude file(s)
