@@ -11,8 +11,8 @@ keywords:
 - MoeyukiWorks
 - kratos-rebirth
 author: Moeyuki
-language: ja # Set the language of your site, e.g., 'en', 'ja', 'zh-CN'
-timezone: 'Asia/Tokyo' # Set your timezone, e.g., 'America/New_York', 'Europe/London', 'Asia/Tokyo'
+language: zh-CN # Set the language of your site, e.g., 'en', 'ja', 'zh-CN'
+timezone: 'Asia/Shanghai' # Set your timezone, e.g., 'America/New_York', 'Europe/London', 'Asia/Tokyo'
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
